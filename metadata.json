@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER ÉTOILE – Premium Fashion & Apparel",
+  "description": "An established international fashion retail brand offering contemporary men's, women's, and kids' clothing, luxury footwear, and designer accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
